@@ -1,0 +1,39 @@
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Panos\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Panos\source\repos\αντικειμενοστραφης αναπτυξη εφαρμογων\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Panos\source\repos\ergasia\ergasia\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
